@@ -1,2 +1,2 @@
-# Laboratirio1
+# Laboratorio1
 Practica
